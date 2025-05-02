@@ -61,8 +61,8 @@
   </ItemGroup>
   <ItemGroup>
     <Compile Include="Assets\Scripts\MoverForvard.cs" />
-    <Compile Include="Assets\Scripts\Spin.cs" />
-    <Compile Include="Assets\Scripts\Grow.cs" />
+    <Compile Include="Assets\Scripts\Spiner.cs" />
+    <Compile Include="Assets\Scripts\Grower.cs" />
   </ItemGroup>
   <ItemGroup>
     <Reference Include="UnityEngine">
