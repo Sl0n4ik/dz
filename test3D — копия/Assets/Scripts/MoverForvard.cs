@@ -1,6 +1,6 @@
 using UnityEngine;
 
-public class MoveForvard : MonoBehaviour
+public class MoverForvard : MonoBehaviour
 {
     [SerializeField] private float _speed = 1f;
    

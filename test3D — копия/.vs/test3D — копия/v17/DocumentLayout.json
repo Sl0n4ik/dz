@@ -1,0 +1,71 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\\u043F\u0440\u043E\u0433\u0440\u0430\u043C\u043C\u0438\u0440\u043E\u0432\u0430\u043D\u0438\u0435\\unity\\dz\\test3D \u2014 \u043A\u043E\u043F\u0438\u044F\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{C2B783D9-CE2F-4355-C4C4-5B58914004D2}|Assembly-CSharp.csproj|D:\\\u043F\u0440\u043E\u0433\u0440\u0430\u043C\u043C\u0438\u0440\u043E\u0432\u0430\u043D\u0438\u0435\\unity\\dz\\test3D \u2014 \u043A\u043E\u043F\u0438\u044F\\assets\\scripts\\grow.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C2B783D9-CE2F-4355-C4C4-5B58914004D2}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\grow.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C2B783D9-CE2F-4355-C4C4-5B58914004D2}|Assembly-CSharp.csproj|D:\\\u043F\u0440\u043E\u0433\u0440\u0430\u043C\u043C\u0438\u0440\u043E\u0432\u0430\u043D\u0438\u0435\\unity\\dz\\test3D \u2014 \u043A\u043E\u043F\u0438\u044F\\assets\\scripts\\spin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C2B783D9-CE2F-4355-C4C4-5B58914004D2}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\spin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C2B783D9-CE2F-4355-C4C4-5B58914004D2}|Assembly-CSharp.csproj|d:\\\u043F\u0440\u043E\u0433\u0440\u0430\u043C\u043C\u0438\u0440\u043E\u0432\u0430\u043D\u0438\u0435\\unity\\dz\\test3d \u2014 \u043A\u043E\u043F\u0438\u044F\\assets\\scripts\\moverforvard.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C2B783D9-CE2F-4355-C4C4-5B58914004D2}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\moverforvard.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "MoverForvard.cs",
+              "DocumentMoniker": "D:\\\u043F\u0440\u043E\u0433\u0440\u0430\u043C\u043C\u0438\u0440\u043E\u0432\u0430\u043D\u0438\u0435\\unity\\dz\\test3D \u2014 \u043A\u043E\u043F\u0438\u044F\\Assets\\Scripts\\MoverForvard.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\MoverForvard.cs",
+              "ToolTip": "D:\\\u043F\u0440\u043E\u0433\u0440\u0430\u043C\u043C\u0438\u0440\u043E\u0432\u0430\u043D\u0438\u0435\\unity\\dz\\test3D \u2014 \u043A\u043E\u043F\u0438\u044F\\Assets\\Scripts\\MoverForvard.cs",
+              "RelativeToolTip": "Assets\\Scripts\\MoverForvard.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-02T07:38:53.02Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Spin.cs",
+              "DocumentMoniker": "D:\\\u043F\u0440\u043E\u0433\u0440\u0430\u043C\u043C\u0438\u0440\u043E\u0432\u0430\u043D\u0438\u0435\\unity\\dz\\test3D \u2014 \u043A\u043E\u043F\u0438\u044F\\Assets\\Scripts\\Spin.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\Spin.cs",
+              "ToolTip": "D:\\\u043F\u0440\u043E\u0433\u0440\u0430\u043C\u043C\u0438\u0440\u043E\u0432\u0430\u043D\u0438\u0435\\unity\\dz\\test3D \u2014 \u043A\u043E\u043F\u0438\u044F\\Assets\\Scripts\\Spin.cs",
+              "RelativeToolTip": "Assets\\Scripts\\Spin.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-02T07:36:02.897Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Grow.cs",
+              "DocumentMoniker": "D:\\\u043F\u0440\u043E\u0433\u0440\u0430\u043C\u043C\u0438\u0440\u043E\u0432\u0430\u043D\u0438\u0435\\unity\\dz\\test3D \u2014 \u043A\u043E\u043F\u0438\u044F\\Assets\\Scripts\\Grow.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\Grow.cs",
+              "ToolTip": "D:\\\u043F\u0440\u043E\u0433\u0440\u0430\u043C\u043C\u0438\u0440\u043E\u0432\u0430\u043D\u0438\u0435\\unity\\dz\\test3D \u2014 \u043A\u043E\u043F\u0438\u044F\\Assets\\Scripts\\Grow.cs",
+              "RelativeToolTip": "Assets\\Scripts\\Grow.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-02T07:35:26.043Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
